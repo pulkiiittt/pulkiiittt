@@ -2,6 +2,7 @@
 - Full Stack Web Devloper using MERN.
 - Chemical Engineering Undergrad but fascinated by the beauty of Computers.
 - BITS Pilani, Pilani Campus
+- CJ (SanAndereas)
 
 <!---
 pulkiiittt/pulkiiittt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
