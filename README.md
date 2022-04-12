@@ -1,5 +1,4 @@
 - Hi, I’m Pulkit
-- Full Stack Web Devloper using MERN.
 - Chemical Engineering Undergrad but fascinated by the beauty of Computers.
 - BITS Pilani, Pilani Campus
 - CJ (SanAndereas)
